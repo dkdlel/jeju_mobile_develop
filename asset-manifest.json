@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jeju_mobile_develop/static/css/main.ea88f1c1.chunk.css",
+    "main.js": "/jeju_mobile_develop/static/js/main.e35c7b75.chunk.js",
+    "main.js.map": "/jeju_mobile_develop/static/js/main.e35c7b75.chunk.js.map",
+    "runtime-main.js": "/jeju_mobile_develop/static/js/runtime-main.7b07329f.js",
+    "runtime-main.js.map": "/jeju_mobile_develop/static/js/runtime-main.7b07329f.js.map",
+    "static/css/2.40c68a69.chunk.css": "/jeju_mobile_develop/static/css/2.40c68a69.chunk.css",
+    "static/js/2.6409ee12.chunk.js": "/jeju_mobile_develop/static/js/2.6409ee12.chunk.js",
+    "static/js/2.6409ee12.chunk.js.map": "/jeju_mobile_develop/static/js/2.6409ee12.chunk.js.map",
+    "index.html": "/jeju_mobile_develop/index.html",
+    "precache-manifest.3f62d6db5d0708c69161eb132bd993b1.js": "/jeju_mobile_develop/precache-manifest.3f62d6db5d0708c69161eb132bd993b1.js",
+    "service-worker.js": "/jeju_mobile_develop/service-worker.js",
+    "static/css/2.40c68a69.chunk.css.map": "/jeju_mobile_develop/static/css/2.40c68a69.chunk.css.map",
+    "static/css/main.ea88f1c1.chunk.css.map": "/jeju_mobile_develop/static/css/main.ea88f1c1.chunk.css.map",
+    "static/js/2.6409ee12.chunk.js.LICENSE.txt": "/jeju_mobile_develop/static/js/2.6409ee12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b07329f.js",
+    "static/css/2.40c68a69.chunk.css",
+    "static/js/2.6409ee12.chunk.js",
+    "static/css/main.ea88f1c1.chunk.css",
+    "static/js/main.e35c7b75.chunk.js"
+  ]
+}
